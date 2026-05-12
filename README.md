@@ -2,17 +2,11 @@
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-![GitHub stats](https://javascript-github-stats-release.vercel.app/api?v=2&username=mintWaterMelon&show_icons=true&theme=radical&count_private=true&show=reviews) <!-- &include_all_commits=true -->
-<!-- Rank
-1 - 
-[2*{1- 2^(-commits/250)} +
-3*{1- 2^(-prs/50)} +
-1*{1- 2^(-issues/25)} +
-1*{1- 2^(-reviews/2)} +
-4*{(stars/50)/ (1 + stars/50)} +
-1*{(followers/10)/ (1 + followers/10)}] / 12
--->
-![Top Langs](https://javascript-github-stats-release.vercel.app/api/top-langs/?v=2&username=mintWaterMelon&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://javascript-github-stats-release.vercel.app/api?v=2&username=mintWaterMelon&show_icons=true&theme=radical&count_private=true&show=reviews" alt="GitHub stats" /> <!-- &include_all_commits=true -->
+  &nbsp;&nbsp;
+  <img src="https://javascript-github-stats-release.vercel.app/api/top-langs/?v=2&username=mintWaterMelon&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee990324)](https://solved.ac/lee990324/) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
