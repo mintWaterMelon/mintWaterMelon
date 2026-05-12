@@ -2,7 +2,7 @@
 
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lee990324&show_icons=true&theme=radical&count_private=true&show=reviews) <!-- &include_all_commits=true -->
+![GitHub stats](https://javascript-github-stats-release.vercel.app/api?username=mintWaterMelon&show_icons=true&theme=radical&count_private=true&show=reviews) <!-- &include_all_commits=true -->
 <!-- Rank
 1 - 
 [2*{1- 2^(-commits/250)} +
