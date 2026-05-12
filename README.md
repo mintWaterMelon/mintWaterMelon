@@ -12,7 +12,7 @@
 4*{(stars/50)/ (1 + stars/50)} +
 1*{(followers/10)/ (1 + followers/10)}] / 12
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee990324&layout=compact&theme=radical)
+![Top Langs](https://javascript-github-stats-release.app/api/top-langs/?v=2&username=mintWaterMelon&layout=compact&theme=radical)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee990324)](https://solved.ac/lee990324/) -->
 
 ![](./profile-3d-contrib/profile-night-green.svg)
