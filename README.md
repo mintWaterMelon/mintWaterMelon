@@ -5,7 +5,8 @@
 <p align="left">
   <img src="https://javascript-github-stats-release.vercel.app/api?v=2&username=mintWaterMelon&show_icons=true&theme=radical&count_private=true&show=reviews" alt="GitHub stats" /> <!-- &include_all_commits=true -->
   &nbsp;&nbsp;
-  <img src="https://javascript-github-stats-release.vercel.app/api/top-langs/?v=2&username=mintWaterMelon&layout=compact&theme=radical" alt="Top Langs" />
+  <!--<img src="https://javascript-github-stats-release.vercel.app/api/top-langs/?v=2&username=mintWaterMelon&layout=compact&theme=radical" alt="Top Langs" />-->
+  <img src="https://javascript-github-stats-release.vercel.app/api/top-langs_?langs=Java:42.08,Python:34.88,C%2B%2B:13.92,TypeScript:5.64,JavaScript:2.61,C:0.86&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee990324)](https://solved.ac/lee990324/) -->
 
